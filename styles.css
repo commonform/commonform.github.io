@@ -54,3 +54,13 @@ ol > li {
   display: inline;
   padding-right: 1em;
 }
+
+ul {
+  padding: 0 14px;
+  line-height: 140%;
+  text-align: justify;
+}
+
+ul > li {
+  margin: 7px 28px;
+}
