@@ -35,7 +35,7 @@ h2 {
 }
 
 p {
-  padding: 14px 0;
+  padding: 0.5rem 0;
   line-height: 140%;
   text-align: justify;
 }
@@ -63,4 +63,14 @@ ul {
 
 ul > li {
   margin: 7px 28px;
+}
+
+.question {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.answer {
+  text-align: center;
+  font-style: italic;
 }
